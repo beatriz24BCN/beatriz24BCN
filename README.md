@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" width="100%" alt="Beatriz Campos Banner">
+  <img src="./github-banner.png" alt="Beatriz Campos Banner" width="100%">
 </p>
 
 # 👋 Hola, soy Beatriz Campos
