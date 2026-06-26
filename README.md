@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Beatriz Campos Banner">
+</p>
 
 # 👋 Hola, soy Beatriz Campos
 
