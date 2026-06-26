@@ -1,21 +1,43 @@
-## Hi there 👋
 
-<!--
-**beatriz24BCN/beatriz24BCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Beatriz Campos
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-* 🔭 Desarrollo aplicaciones web full stack centradas en la experiencia de usuario y la integración eficiente entre frontend y backend.
+Me apasiona desarrollar aplicaciones web modernas, creando soluciones tanto en frontend como en backend.
 
-* 🌱 Especializada en tecnologías como React, JavaScript, Python y Flask, con enfoque en la creación de aplicaciones escalables y bien estructuradas.
+Trabajo principalmente con JavaScript, React, Python, Flask y SQL, construyendo aplicaciones completas, consumiendo APIs y desarrollando interfaces intuitivas y funcionales.
 
-* 👯 Interesada en colaborar en proyectos de desarrollo web donde aportar valor técnico y seguir creciendo profesionalmente.
+Siempre disfruto aprendiendo nuevas tecnologías, mejorando mis proyectos y explorando el potencial de la Inteligencia Artificial aplicada al desarrollo.
 
-* 🤔 En constante mejora de la calidad del código, aplicando buenas prácticas y estándares del desarrollo moderno.
+## 🚀 Tecnologías
 
-* 💬 Experiencia en desarrollo de aplicaciones full stack, integración de APIs REST y gestión de bases de datos.
+- JavaScript
+- React
+- Python
+- Flask
+- HTML5
+- CSS3
+- SQL
+- Git
+- GitHub
+- REST APIs
 
-* 📫 Contacto: [beatriz24bcn@hotmail.com](mailto:beatriz24bcn@hotmail.com)
+## 📌 Proyectos destacados
 
-* ⚡ Experiencia previa en gestión y atención al cliente, aportando habilidades de comunicación, organización y orientación a resultados.
+⚽ **GoalHub**
+Aplicación Full Stack para aficionados al fútbol con autenticación, estadísticas, comentarios, tienda y predicciones.
 
+💆 **Web Salón de Masajes**
+Landing page moderna y responsive diseñada para un centro de bienestar.
+
+🌌 **Star Wars Blog**
+Aplicación React consumiendo una API con gestión de favoritos y navegación dinámica.
+
+📇 **Contact List**
+CRUD completo desarrollado con React y Flask.
+
+## 📫 Contacto
+
+- 📍 Barcelona, España
+- 💼 LinkedIn : https://www.linkedin.com/in/bea-campos-5670a633b
+- 📧 Tu email:beatriz24bcn@hotmail.com
