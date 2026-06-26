@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Black%20and%20Blue%20Modern%20Web%20Developer%20Presentation%20(4).png" width="100%">
+  <img src="banner.png.png" width="100%">
 </p>
 
 # 👋 Hola, soy Beatriz Campos
