@@ -61,20 +61,18 @@ Aplicación **Full Stack** desarrollada con **React** y **Flask**, implementando
 
 📍 Barcelona, España
 
-💼 LinkedIn
-[www.linkedin.com/in/bea-campos-5670a633b](http://www.linkedin.com/in/bea-campos-5670a633b)
+💼 **LinkedIn:** [Beatriz Campos](https://www.linkedin.com/in/bea-campos-5670a633b)
 
-📧 Email
-[beatriz24bcn@hotmail.com](mailto:beatriz24bcn@hotmail.com)
+📧 **Email:** beatriz24bcn@hotmail.com
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=beatriz24BCN&show_icons=true&theme=github_dark&hide_border=true" />
-
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz24BCN&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
