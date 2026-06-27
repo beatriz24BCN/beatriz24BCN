@@ -22,7 +22,7 @@ Me considero una persona comprometida, con capacidad de adaptación, orientada a
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,postgres,git,github,vscode" />
 </p>
 
-### 🤖 Inteligencia Artificial
+### 🤖 Epecialización en IA
 
 - Full Stack with AI
 - Desarrollo con IA
