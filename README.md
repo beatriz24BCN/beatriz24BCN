@@ -19,34 +19,41 @@ Me considero una persona comprometida, con capacidad de adaptación, orientada a
 ## 🚀 Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,postgres,git,github,vscode" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,postgres,git,github,vscode" /> 
 </p>
+**También trabajo con:** SQLAlchemy • REST APIs • JWT • Inteligencia Artificial
 
-### 🤖 Epecialización en IA
+### 🤖 Especialización en IA
 
-- Full Stack with AI
-- Desarrollo con IA
-- Aplicación de herramientas de IA para acelerar el desarrollo, automatizar tareas y mejorar la productividad.
+- **Full Stack with AI**
+- **Desarrollo con IA**
+- Integración de herramientas de **Inteligencia Artificial** para acelerar el desarrollo, automatizar tareas y mejorar la productividad.
 
 ---
 
 ## 📌 Proyectos destacados
 
 ### ⚽ GoalHub
+🔗 https://github.com/beatriz24BCN/Predicador-de-Futbol-final
 
-Aplicación Full Stack orientada a aficionados al fútbol con autenticación de usuarios, estadísticas, comentarios, tienda y sistema de predicciones.
+Aplicación **Full Stack** desarrollada con **React**, **Python**, **Flask**, **SQLAlchemy** y **APIs REST**, orientada a aficionados al fútbol. Incluye autenticación de usuarios, estadísticas, comentarios, tienda y sistema de predicciones.
 
 ### 💆 Web Salón de Masajes
 
+🚧 **Proyecto actualmente en desarrollo y en continua evolución.**
+
 Landing page moderna y responsive diseñada para un centro de bienestar, con un enfoque en la experiencia de usuario y el diseño visual.
 
+
 ### 🌌 Star Wars Blog
+🔗 https://github.com/4GeeksAcademy/flask-rest-hello-stars-wars-BeaCamposs
 
-Aplicación desarrollada con React que consume una API externa, con navegación dinámica y gestión de favoritos.
+Aplicación desarrollada con **React**, consumo de **APIs REST**, navegación dinámica y gestión de favoritos.
 
-### 📇 Contact List
+### 🔐 React + Flask + JWT Authentication
+🔗 https://github.com/beatriz24BCN/react-flask-hello-JWT-BeitaCam
 
-Aplicación CRUD desarrollada con React, Flask y API REST para la gestión de contactos.
+Aplicación **Full Stack** desarrollada con **React** y **Flask**, implementando autenticación mediante **JWT**, gestión de usuarios y comunicación segura mediante **APIs REST**.
 
 ---
 
@@ -59,3 +66,17 @@ Aplicación CRUD desarrollada con React, Flask y API REST para la gestión de co
 
 📧 Email
 [beatriz24bcn@hotmail.com](mailto:beatriz24bcn@hotmail.com)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=beatriz24BCN&show_icons=true&theme=github_dark&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz24BCN&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=beatriz24BCN&theme=github-dark&hide_border=true" />
+</p>
