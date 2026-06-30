@@ -42,9 +42,9 @@ Aplicación **Full Stack** desarrollada con **React**, **Python**, **Flask**, **
 
 ### 💆 Web Salón de Masajes
 
-🚧 **Proyecto actualmente en desarrollo y en continua evolución.**
+🔗 https://github.com/beatriz24BCN/zen-massage-booking
 
-Landing page moderna y responsive diseñada para un centro de bienestar, con un enfoque en la experiencia de usuario y el diseño visual.
+Aplicación **Full Stack** desarrollada con **React**, **JavaScript**, **Python**, **Flask**, **SQLAlchemy** y **APIs REST**, orientada a la gestión de reservas de un centro de masajes. Incluye sistema de reservas, gestión de horarios y formulario de contacto, aplicando **Inteligencia Artificial** y **GitHub Copilot** para agilizar el desarrollo, optimizar el código y resolver incidencias.
 
 ### 🌌 Star Wars Blog
 
