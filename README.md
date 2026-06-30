@@ -40,11 +40,11 @@ Me considero una persona comprometida, con capacidad de adaptación, orientada a
 
 Aplicación **Full Stack** desarrollada con **React**, **Python**, **Flask**, **SQLAlchemy** y **APIs REST**, orientada a aficionados al fútbol. Incluye autenticación de usuarios, estadísticas, comentarios, tienda y sistema de predicciones.
 
-### 💆 Web Salón de Masajes
+### 💆 Zen Massage Booking
 
 🔗 https://github.com/beatriz24BCN/zen-massage-booking
 
-Aplicación **Full Stack** desarrollada con **React**, **JavaScript**, **Python**, **Flask**, **SQLAlchemy** y **APIs REST**, orientada a la gestión de reservas de un centro de masajes. Incluye sistema de reservas, gestión de horarios y formulario de contacto, aplicando **Inteligencia Artificial** y **GitHub Copilot** para agilizar el desarrollo, optimizar el código y resolver incidencias.
+Aplicación **Full Stack** desarrollada con **React**, **JavaScript**, **Python**, **Flask**, **SQLAlchemy** y **APIs REST** para la gestión de reservas, desarrollada con apoyo de **Inteligencia Artificial** y **GitHub Copilot**.
 
 ### 🌌 Star Wars Blog
 
