@@ -46,11 +46,6 @@ Aplicación **Full Stack** desarrollada con **React**, **Python**, **Flask**, **
 
 Aplicación **Full Stack** desarrollada con **React**, **JavaScript**, **Python**, **Flask**, **SQLAlchemy** y **APIs REST** para la gestión de reservas, desarrollada con apoyo de **Inteligencia Artificial** y **GitHub Copilot**.
 
-### 🌌 Star Wars Blog
-
-🔗 https://github.com/4GeeksAcademy/flask-rest-hello-stars-wars-BeaCamposs
-
-Aplicación desarrollada con **React**, consumo de **APIs REST**, navegación dinámica y gestión de favoritos.
 
 ### 🔐 React + Flask + JWT Authentication
 
