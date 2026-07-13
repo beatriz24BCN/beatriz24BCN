@@ -40,6 +40,12 @@ Me considero una persona comprometida, con capacidad de adaptación, orientada a
 
 Aplicación **Full Stack** desarrollada con **React**, **Python**, **Flask**, **SQLAlchemy** y **APIs REST**, orientada a aficionados al fútbol. Incluye autenticación de usuarios, estadísticas, comentarios, tienda y sistema de predicciones.
 
+### 🚀 SkillBridge   🚧 Actualmente en desarrollo activo y en constante evolución
+
+🔗 https://github.com/beatriz24BCN/SkillBridge
+
+Aplicación **Full Stack** desarrollada con **React**, **Python**, **Flask**, **SQLAlchemy**, **APIs REST**, **Inteligencia Artificial** y conceptos inspirados en **Blockchain**, orientada al reclutamiento inteligente y la búsqueda de empleo. Incluye asistente de IA, recomendaciones laborales, optimización del CV, preparación de entrevistas, sistema de matching entre candidatos y ofertas y verificación de credenciales mediante **Blockchain**.
+
 ### 💆 Zen Massage Booking
 
 🔗 https://github.com/beatriz24BCN/zen-massage-booking
