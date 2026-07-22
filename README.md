@@ -81,5 +81,5 @@ Aplicación **Full Stack** desarrollada con **React**, **Flask** y autenticació
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=beatriz24BCN&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatriz24BCN&theme=github-dark&hide_border=true" />
 </p>
