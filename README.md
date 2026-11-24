@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
@@ -6,33 +7,44 @@
 
 ## 💻 Full Stack Developer
 
-Desarrollo aplicaciones web completas, participando tanto en el **frontend** como en el **backend**, utilizando **JavaScript, React, Python, Flask y SQL**.
+Desarrollo aplicaciones web completas, participando tanto en el **frontend** como en el **backend**, utilizando tecnologías como **JavaScript, TypeScript, React, Next.js, Python, Flask y FastAPI**.
 
-He desarrollado aplicaciones Full Stack en las que he diseñado interfaces modernas y responsivas, implementado **APIs REST**, trabajado con **bases de datos mediante SQLAlchemy** y construido soluciones escalables.
+He desarrollado aplicaciones Full Stack en las que he diseñado interfaces modernas y responsivas, implementado **APIs REST**, trabajado con **bases de datos relacionales mediante SQLAlchemy y PostgreSQL**, autenticación mediante **JWT** y entornos de desarrollo con **Docker**.
 
-Además, he complementado mi formación con especialización en **Full Stack with AI** y **Desarrollo con IA**, incorporando herramientas de Inteligencia Artificial para optimizar el desarrollo y mejorar la productividad.
+Además, cuento con especialización en **Full Stack with AI** y **Desarrollo con IA**, integrando herramientas de Inteligencia Artificial y tecnologías **RAG (Retrieval-Augmented Generation)** para desarrollar funcionalidades inteligentes y mejorar las soluciones digitales.
 
-Me considero una persona comprometida, con capacidad de adaptación, orientada al trabajo en equipo y enfocada en crear soluciones funcionales que ofrezcan una excelente experiencia de usuario.
+Me interesa especialmente la innovación tecnológica, el desarrollo de aplicaciones escalables y la creación de soluciones funcionales que ofrezcan una excelente experiencia de usuario.
 
 ---
 
 ## 🚀 Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,flask,fastapi,postgres,docker,git,github,vscode" />
 </p>
 
-**También trabajo con:** SQLAlchemy • REST APIs • JWT • Inteligencia Artificial
+**También trabajo con:** SQLAlchemy • REST APIs • JWT • RAG • Inteligencia Artificial
 
 ### 🤖 Especialización en IA
 
 * **Full Stack with AI**
 * **Desarrollo con IA**
-* Integración de herramientas de **Inteligencia Artificial** para acelerar el desarrollo, automatizar tareas y mejorar la productividad.
+* Integración de herramientas de **Inteligencia Artificial**.
+* Desarrollo de asistentes conversacionales y sistemas de recuperación de información mediante **RAG**.
 
 ---
 
 ## 📌 Proyectos destacados
+
+### 🐱 CatMatch
+
+🔗 **Demo online:** https://catmatch-frontend-next.vercel.app/
+
+🔗 **GitHub:** https://github.com/beatriz24BCN/CatMatch
+
+Aplicación **Full Stack** orientada a facilitar la adopción responsable de gatos mediante un sistema de compatibilidad entre las necesidades de cada animal y el estilo de vida de las personas adoptantes. Incorpora **Matcher**, un asistente conversacional con Inteligencia Artificial que recoge preferencias del usuario y utiliza información contextual para orientar la búsqueda de gatos compatibles. Incluye un pipeline **RAG local basado en Okapi BM25** para recuperar información relevante de guías y documentación de adopción.
+
+**Tecnologías:** Next.js, TypeScript, Python, FastAPI, PostgreSQL, SQLAlchemy, Docker y RAG.
 
 ### ⚽ GoalHub
 
@@ -51,7 +63,6 @@ Aplicación **Full Stack** desarrollada con **React**, **Python**, **Flask**, **
 🔗 https://github.com/beatriz24BCN/zen-massage-booking
 
 Aplicación **Full Stack** desarrollada con **React**, **JavaScript**, **Python**, **Flask**, **SQLAlchemy** y **APIs REST** para la gestión de reservas, desarrollada con apoyo de **Inteligencia Artificial** y **GitHub Copilot**.
-
 
 ### 🔐 React + Flask + JWT Authentication
 
@@ -83,3 +94,4 @@ Aplicación **Full Stack** desarrollada con **React**, **Flask** y autenticació
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatriz24BCN&theme=github-dark&hide_border=true" />
 </p>
+
